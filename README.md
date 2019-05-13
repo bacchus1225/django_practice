@@ -1,2 +1,2 @@
 # django_practice
-Djnangoの練習
+Djangoの練習
